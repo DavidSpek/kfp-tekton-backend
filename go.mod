@@ -28,7 +28,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/robfig/cron v1.2.0
 	github.com/sirupsen/logrus v1.4.2
-	github.com/spf13/viper v1.6.2
+	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.5.1
 	github.com/tektoncd/pipeline v0.13.0
 	github.com/valyala/fasttemplate v1.1.0 // indirect
