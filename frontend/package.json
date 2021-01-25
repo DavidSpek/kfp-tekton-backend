@@ -83,7 +83,7 @@
     "@types/react-virtualized": "^9.18.7",
     "browserslist": "4.8.7",
     "coveralls": "^3.0.2",
-    "enzyme": "^3.10.0",
+    "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.1",
     "enzyme-to-json": "^3.3.4",
     "prettier": "1.19.1",
