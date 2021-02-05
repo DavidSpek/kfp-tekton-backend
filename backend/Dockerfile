@@ -66,7 +66,7 @@ RUN line="import kfp;kfp.components.default_base_image_or_builder='gcr.io/google
     python3 "$pipeline"; \
     done
 
-FROM golang:1.13.0
+FROM golang:1.15.8
 
 ARG COMMIT_SHA=unknown
 ENV COMMIT_SHA=${COMMIT_SHA}
