@@ -16,9 +16,9 @@ require (
 	github.com/go-openapi/validate v0.19.5
 	github.com/go-sql-driver/mysql v1.5.0
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
-	github.com/golang/protobuf v1.4.0
-	github.com/google/go-cmp v0.4.1
-	github.com/google/uuid v1.1.1
+	github.com/golang/protobuf v1.4.3
+	github.com/google/go-cmp v0.5.4
+	github.com/google/uuid v1.1.2
 	github.com/gopherjs/gopherjs v0.0.0-20181103185306-d547d1d9531e // indirect
 	github.com/grpc-ecosystem/grpc-gateway v1.12.2
 	github.com/jinzhu/gorm v1.9.12
@@ -32,10 +32,10 @@ require (
 	github.com/stretchr/testify v1.5.1
 	github.com/tektoncd/pipeline v0.13.0
 	github.com/valyala/fasttemplate v1.1.0 // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
-	google.golang.org/api v0.20.0
-	google.golang.org/genproto v0.0.0-20200326112834-f447254575fd
-	google.golang.org/grpc v1.28.0
+	golang.org/x/net v0.0.0-20201209123823-ac852fbbde11
+	google.golang.org/api v0.40.0 // indirect
+	google.golang.org/genproto v0.0.0-20201214200347-8c77b98c765d // indirect
+	google.golang.org/grpc v1.34.0
 	gopkg.in/ini.v1 v1.56.0 // indirect
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.17.6
